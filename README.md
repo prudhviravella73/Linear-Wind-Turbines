@@ -1,45 +1,53 @@
-# Green Energy System
+# Linear Wind Turbines
 
 ## 📌 Project Overview
 
-An academic project exploring renewable energy systems and practical
-applications of clean energy technologies.
+This project focuses on **Linear Wind Turbine technology** as a renewable energy system.
+
+The project explores how linear wind turbines can be used to generate electrical energy from wind and how renewable energy technologies can contribute to cleaner and more sustainable energy production.
 
 ## 🎯 Objectives
 
-- Promote the use of renewable energy resources
-- Reduce pollution and dependence on fossil fuels
-- Explore solar-powered electric mobility
-- Explore piezoelectricity
-- Explore linear wind turbines
+- Study the concept of linear wind turbines
+- Understand the working principle of linear wind energy conversion
+- Explore the major components used in the system
+- Understand how wind energy can be converted into electrical energy
+- Study the potential applications of linear wind turbines
+- Promote renewable and sustainable energy solutions
 
-## 🔋 Topics Covered
+## ⚙️ Project Topics
 
 - Renewable Energy
-- Solar Energy
 - Wind Energy
-- Hydral Energy
-- Geothermal Energy
-- Biomass Energy
-- Solar Electric Bike
-- Piezoelectricity
 - Linear Wind Turbines
-- Battery and Mileage
-- Advantages and Disadvantages
-- Applications
-
-## ⚙️ Project Concept
-
-The project explores the use of renewable energy technologies
-for practical applications such as electric mobility,
-charging stations and other energy-related systems.
+- Wind Energy Conversion
+- Sustainable Energy
+- Clean Energy Technology
 
 ## 📄 Project Documentation
 
-The complete project presentation is available in:
+The complete project documentation is available in the PDF below:
 
-**GREEN ENERGY SYSTEM.pdf**
+**[View Linear Wind Turbines Project PDF](./LINEAR%20WIND%20TURBINES.pdf)**
 
-## 👨‍💻 Project Type
+## 🧰 Project Components
 
-Academic Project
+The project discusses the components and principles involved in a linear wind turbine system, including the mechanisms used for converting wind movement into usable electrical energy.
+
+## 🌱 Applications
+
+Linear wind turbine technology can be explored for:
+
+- Renewable electricity generation
+- Sustainable energy systems
+- Small-scale energy generation
+- Educational and research applications
+- Clean energy projects
+
+## 📚 Project Type
+
+**Academic Project**
+
+### Author
+
+**Prudhvi Teja Ravella**
